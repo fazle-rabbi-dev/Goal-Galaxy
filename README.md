@@ -6,7 +6,7 @@
 
 *Goal-Galaxy is a beautifully crafted Todo-List app built with React-Native, Expo-Router, and TailwindCSS. This app will help you manage your todos effectively with its simplicity in handling tasks.*
 
-<a class="" href="#">
+<a class="" href="https://github.com/fazle-rabbi-dev/Goal-Galaxy/releases/download/Apk/goal-galaxy.apk">
   <img src="assets/images/download-btn.png" alt="Download Apk" />
 </a>
 
